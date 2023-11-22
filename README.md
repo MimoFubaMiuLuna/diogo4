@@ -1,7 +1,7 @@
 ### Bem Vindo ao meu perfil
 
 
-- Estou estudando no .[Alura](htpps://www.alura.com.br).
+- Estou estudando no ![Alura](htpps://www.alura.com.br).
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para organização e o compartilhamento dos meus projetos desenvolvidos
 
