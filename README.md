@@ -9,5 +9,6 @@
 
   diogo.pereira.cardoso@escola.pr.gov.br
 
-   ![diavolo](https://github.com/MimoFubaMiuLuna/diogo4/assets/130575808/039c45a5-0220-49c1-be5f-10194bc228b2)
+  ![image](https://github.com/MimoFubaMiuLuna/diogo4/assets/130575808/b5b7fc86-486a-46c6-8368-d0dd5cef859b)
+
 
