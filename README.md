@@ -3,7 +3,7 @@
 
 - Estou estudando no ![Alura](htpps://www.alura.com.br).
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para organização e o compartilhamento dos meus projetos desenvolvidos
+- Utilizo esse espaço para organização e o compartilhamento dos meus projetos desenvolvidos.
 
   ### Você pode entrar em contato comigo 📫
 
